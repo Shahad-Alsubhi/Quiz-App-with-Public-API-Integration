@@ -173,7 +173,6 @@ startButton.onclick = () => {
           }
           let answerDiv = document.createElement("div");
           answerDiv.className = "answerDiv";
-          console.log(i);
           let q = document.createTextNode(`Q${index + 1}. ${opj.question} `);
 
           answerDiv.append(q);
