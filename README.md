@@ -11,6 +11,8 @@ It includes functionalities for displaying questions, handling answers, and prov
 
 <img src="https://github.com/user-attachments/assets/ad476b83-b033-4dcd-9a05-7aea97241bcf" alt="Example Image" width="300">
 
-![image](https://github.com/user-attachments/assets/f37d1fb6-7268-4225-bd60-876ed5b99b65)
+<img src="https://github.com/user-attachments/assets/f37d1fb6-7268-4225-bd60-876ed5b99b65" alt="Example Image" width="300">
 
-![image](https://github.com/user-attachments/assets/ad476b83-b033-4dcd-9a05-7aea97241bcf)
+<img src="https://github.com/user-attachments/assets/ad476b83-b033-4dcd-9a05-7aea97241bcf" alt="Example Image" width="300">
+
+
